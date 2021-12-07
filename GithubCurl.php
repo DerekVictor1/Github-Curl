@@ -30,7 +30,7 @@
 
     } else {
 
-        echo "connected succesfully" . "<br/>";
+        echo "connected succesfully and echoed as well " . "<br/>";
 
     }
 
